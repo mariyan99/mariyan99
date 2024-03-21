@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mariyan99
+- 👀 I’m interested in programming and design
+- 🌱 I’m currently learning React, .net and pyton
+- 📫 How to reach me: mariyanap99@gmail.com
+- ⚡ Fun fact: side hustle into programming with javascript, HTML, CSS and pyton
